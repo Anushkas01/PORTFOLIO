@@ -101,7 +101,7 @@ header .user img{
 
 header .user .name{
     font-size: 3.5rem;
-    color:whitesmoke;
+    color:whitesmoke; 
 }
 header .user .social-links a {
     font-size: 18px;

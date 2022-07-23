@@ -16,7 +16,7 @@ $(document).ready(function(){
         $('.top').hide();
       }
   
-    });
+    }); 
   
     // smooth scrolling 
   
